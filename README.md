@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Lucas! 👋
 
-<!--
-**Lucasantos-dot/Lucasantos-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Python Developer | Entusiasta de Dados e Design
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil de estudos! Este espaço é dedicado ao meu aprendizado contínuo na transição para a área de tecnologia. Aqui você encontrará exercícios de lógica, projetos de faculdade e experimentos com novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas em Estudo
+
+- **Linguagens:** Python (Foco atual), SQL, JavaScript
+- **Web & Design:** React, HTML5, CSS3, Figma
+- **Dados:** Power BI, Pandas, NumPy
+- **Outros:** Git/GitHub, Lógica de Programação, Estrutura de Dados
+
+---
+
+## 📚 Jornada de Aprendizado
+
+Atualmente, estou focado em aprimorar minhas habilidades em **Python** e **Análise de Dados**. Abaixo estão os principais marcos do meu estudo:
+
+* **Python:** Manipulação de dados, automação e lógica avançada.
+* **Banco de Dados:** Construção de queries complexas e modelagem.
+* **Projetos Híbridos:** Unindo meu background em Design Gráfico com Desenvolvimento de Sistemas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+*"O aprendizado é um processo contínuo, não um destino final."*
