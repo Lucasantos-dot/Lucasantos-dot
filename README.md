@@ -25,11 +25,4 @@ Atualmente, estou focado em aprimorar minhas habilidades em **Python** e **Anál
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
-
----
-
 *"O aprendizado é um processo contínuo, não um destino final."*
